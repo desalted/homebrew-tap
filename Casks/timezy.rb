@@ -1,6 +1,6 @@
 cask "timezy" do
   version "0.1.1"
-  sha256 "9c4adb066d67b585ca68fd8a2eff1fbab203281c287620184cd5d62debedaa36"
+  sha256 "0509d3f4d53dd1ee022828181636fbdc914413e0e84fa6c958edb23fdbc44681"
 
   url "https://cdn.ethanr.io/Timezy-#{version}.dmg"
   name "Timezy"
